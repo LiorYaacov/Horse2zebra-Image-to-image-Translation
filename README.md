@@ -1,1 +1,1 @@
-# Horse2zebra-Image-to-image-Translation
+# Horse2zebra Challenge - CycleGAN with Segmentation-guided Attention
