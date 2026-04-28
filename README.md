@@ -7,8 +7,8 @@ Through a series of experiments, promising results are observed, demonstrating e
 
 Full project report is available [here](https://github.com/LiorYaacov/Horse2zebra-Image-to-image-Translation/blob/main/Horse2zebra___Final_Project.pdf)
 
-<img width="1005" height="467" alt="image" src="https://github.com/user-attachments/assets/fc3b1dc8-595c-485d-aa14-2e0716ab44be" />
-
+<center><img width="778" height="350" alt="image" src="https://github.com/user-attachments/assets/fc3b1dc8-595c-485d-aa14-2e0716ab44be" /></center>
+<BR>
 
 [^1]: Zhu, Jun-Yan, et al. "Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks." In *Computer Vision (ICCV), 2017 IEEE International Conference on*. 2017.  
 [^2]: Isola, Phillip, et al. "Image-to-Image Translation with Conditional Adversarial Networks." 2018. [https://arxiv.org/abs/1611.07004](https://arxiv.org/abs/1611.07004)
